@@ -14,7 +14,7 @@ A clean, elegant command-line interface for chatting with local AI models via Ol
 ## Installation 
  
 ```bash 
-pip install haiku 
+pip install haiku-ollama 
 ```
  
 Make sure you have Ollama installed and running before using Haiku. 
