@@ -30,4 +30,10 @@ setup(
             "haiku=src.main:main",
         ],
     },
+    # Instead of license-file, use license
+    license="MIT",
+    # If you want to include the license file in the package
+    package_data={
+        "": ["LICENSE"],
+    },
 )
