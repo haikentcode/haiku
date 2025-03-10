@@ -1,0 +1,22 @@
+# Build and distribution
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+
+# Local testing files
+*.log
