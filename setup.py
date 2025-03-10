@@ -11,9 +11,9 @@ setup(
     description="A command-line interface for interacting with Ollama AI models",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/haiku",
+    url="https://github.com/haikentcode/haiku",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/haiku/issues",
+        "Bug Tracker": "https://github.com/haikentcode/haiku/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
