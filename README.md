@@ -82,8 +82,8 @@ To exit the program, simply type exit or bye, or press Ctrl+C.
 ## Requirements 
  
 - Python 3.8+ 
-- Ollama installed and running 
-- Python packages: ollama, rich 
+- [Ollama installed and running](#https://ollama.com/download)
+- Python packages: [ollama](#https://github.com/ollama/ollama-python), [rich](#https://rich.readthedocs.io/en/stable/introduction.html)
  
 ## Contributing 
  

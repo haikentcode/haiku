@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="haiku-ollama"
+    name="haiku-ollama",
     version="0.1.0",
     author="Hitesh Regar",
     author_email="haikent.work@gmail.com",
